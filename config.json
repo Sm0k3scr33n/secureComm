@@ -1,0 +1,14 @@
+{
+  "users":[
+    {
+      "username":"admin",
+      "password_hash":"$2a$12$l63Q.lq12LmqGE38qRR.vutJpFKYMwlffqBYvn3wnYU.ULNI5zkrG",
+      "bcrypt_seed":"$2a$12$l63Q.lq12LmqGE38qRR.vu"
+    },
+    {
+      "username":"user2",
+      "password_hash":"$2a$12$vUcca18udgf0E05y\/W\/uXOgiGpkwGZ15XdNjBM4kB8TKh83irpkbC",
+      "bcrypt_seed":"$2a$12$vUcca18udgf0E05y\/W\/uXO"
+    }
+  ]
+}
